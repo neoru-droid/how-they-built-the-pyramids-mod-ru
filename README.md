@@ -1,6 +1,6 @@
 # How They Built the Pyramids - Внутриигровое мод-меню (v1.0)
 
-Русское мод-меню в игре, готовое сохранение со стартовой казной и таблица Cheat Engine для **How They Built the Pyramids** (версия `0.43.0`, Windows и Steam Deck).
+Мод-меню на русском, готовое сохранение со стартовой казной и таблица Cheat Engine для **How They Built the Pyramids** (версия `0.43.0`, Windows и Steam Deck).
 
 ## Скачать
 - **[Страница релиза и обновления на Boosty](https://boosty.to/cd_tixo/posts/41ca289e-3e82-4c0f-af84-9cad91e1b84a?utm_source=github&utm_medium=readme&utm_campaign=how_they_built_the_pyramids)**
