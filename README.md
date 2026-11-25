@@ -8,6 +8,7 @@
 
 - **[Boosty - страница релиза и обновления](https://boosty.to/cd_tixo/posts/41ca289e-3e82-4c0f-af84-9cad91e1b84a)**
 - **[Каталог всех проектов автора на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec)**
+- **[Каталог всех игр с поиском](https://neoru-droid.github.io/)**
 - **[GitHub Releases](https://github.com/neoru-droid/how-they-built-the-pyramids-mod-ru/releases)**
 
 Поддерживаются **Windows 10 / 11** и **Steam Deck / Linux (Proton)**.
