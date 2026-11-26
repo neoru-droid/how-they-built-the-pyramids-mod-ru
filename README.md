@@ -1,55 +1,31 @@
-# How They Built the Pyramids - Внутриигровое мод-меню (v1.0)
+# How They Built the Pyramids - Мод-меню и таблица .CT
 
-Мод-меню на русском, готовое сохранение со стартовой казной и таблица Cheat Engine для **How They Built the Pyramids** (версия `0.43.0`, Windows и Steam Deck).
+Лагерь 10 уровня со старта, запас монет, кирпичей и глины, быстрый бег, лёгкая переноска блоков и защита от жары + сохранение и `.CT` (`v1.0`, версия `0.43.0`, Windows и Steam Deck).
 
 ## Скачать
-- **[Страница релиза и обновления на Boosty](https://boosty.to/cd_tixo/posts/41ca289e-3e82-4c0f-af84-9cad91e1b84a?utm_source=github&utm_medium=readme&utm_campaign=how_they_built_the_pyramids)**
+- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/41ca289e-3e82-4c0f-af84-9cad91e1b84a?utm_source=github&utm_medium=readme&utm_campaign=how_they_built_the_pyramids)**
 - **[Архивы на GitHub Releases](https://github.com/neoru-droid/how-they-built-the-pyramids-mod-ru/releases)**
+- **Ранний доступ и заказ своей игры:** новинки на 48 ч раньше от `120 ₽`, своя игра в очередь - `350 ₽`, вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game)
 
-Поддерживаются **Windows 10 / 11** и **Steam Deck / Linux (Proton)**.
+![How They Built the Pyramids - Мод-меню](docs/screenshots/cover_wide.png)
 
-![How They Built the Pyramids - Внутриигровое мод-меню](docs/screenshots/cover_wide.png)
+## Установка
+1. **Windows:** закройте игру, распакуйте архив и запустите `HowTheyBuiltThePyramids-Trainer-Setup.exe` -> **«Установить мод-меню»** (в игре `F1` или `L3 + R3`).
+2. **Steam Deck / Linux:** распакуйте архив и выполните `sh install-steamdeck.sh`.
+3. **Удаление:** кнопка **«Удалить мод-меню»** в установщике (или `sh install-steamdeck.sh --uninstall`).
 
-## Установка мод-меню
+## Функции мод-меню
+![Мод-меню стройки и лагеря](docs/screenshots/mod_menu_ru.png)
 
-1. **Windows:** закройте игру, распакуйте архив и запустите `HowTheyBuiltThePyramids-Trainer-Setup.exe` -> **«Установить мод-меню»** (после установки в игре нажмите `F1` или `L3 + R3`).
-2. **Steam Deck / Linux:** распакуйте файлы архива в одну папку и выполните `sh install-steamdeck.sh`.
-3. **Удаление:** запустите установщик и нажмите **«Удалить мод-меню»** (или `sh install-steamdeck.sh --uninstall`).
+- **Казна и команда:** `Alt+1` `+1 000` монет, `Alt+2` `+10 000` монет, `Alt+3` командные улучшения 10 ур. (все 5 веток), `Alt+4` `+250` кирпичей и `2 500 г` глины.
+- **Герой и жара:** `Alt+5` отключить перегрев и обморок, `Alt+6` быстрый бег `x1.9` и прыжок `x1.6`, `Alt+7` лёгкая переноска без замедления, `Alt+8` сбросить модификаторы.
 
-## Возможности мод-меню
+## Таблица Cheat Engine и стартовое сохранение
+![Таблица Cheat Engine](docs/screenshots/ct_1.png)
 
-![Внутриигровое мод-меню поверх игры](docs/screenshots/mod_menu_ru.png)
+- **Таблица (`HowTheyBuiltThePyramids-CheatTable-RU-v1.0.zip`):** те же 8 функций для процесса `Pyramid.exe` в Cheat Engine 7.5+.
+- **Сохранение (`HowTheyBuiltThePyramids-CheatMod-v1.0.zip`):** готовый мир (`50 000` монет, улучшения 10 ур.) -> распаковать `Saves` в `%USERPROFILE%\AppData\LocalLow\PattezGames\How They Built the Pyramids`.
 
-### Вкладка «Казна и команда»
-1. `Alt+1` - **+1 000 монет в казну**
-2. `Alt+2` - **+10 000 монет в казну**
-3. `Alt+3` - **Прокачать командные улучшения (уровень 10)** (все 5 веток)
-4. `Alt+4` - **+250 кирпичей и 2 500 г глины в зачёт**
+Нашли баг после патча - пишите в [Issues](https://github.com/neoru-droid/how-they-built-the-pyramids-mod-ru/issues).
 
-### Вкладка «Герой и жара»
-5. `Alt+5` - **Отключить перегрев и обморок**
-6. `Alt+6` - **Быстрый бег (x1.9) и высокий прыжок (x1.6)**
-7. `Alt+7` - **Лёгкая переноска без замедления**
-8. `Alt+8` - **Сбросить модификаторы героя и жары**
-
-## Таблица Cheat Engine (`HowTheyBuiltThePyramids_RU_v1.0.CT`)
-
-![Таблица Cheat Engine для How They Built the Pyramids](docs/screenshots/ct_1.png)
-
-Отдельная русская таблица для Cheat Engine 7.5+ (`HowTheyBuiltThePyramids-CheatTable-RU-v1.0.zip`) поддерживает процесс `Pyramid.exe`: +1 000 / +10 000 монет в казну, прокачка командных улучшений до уровня 10, +250 кирпичей и 2 500 г глины, отключение перегрева и миражей, быстрый бег x1.9 и высокий прыжок x1.6, лёгкая переноска (сила +10) и сброс модификаторов.
-
-## Стартовое сохранение (готовый мир)
-
-Архив `HowTheyBuiltThePyramids-CheatMod-v1.0.zip` содержит готовое сохранение мира (`50 000` монет в казне и командные улучшения 10 уровня). Распакуйте папку `Saves` в `%USERPROFILE%\AppData\LocalLow\PattezGames\How They Built the Pyramids`.
-
-## Обратная связь и проекты автора
-
-Заметили баг после патча игры - пишите в [Issues](https://github.com/neoru-droid/how-they-built-the-pyramids-mod-ru/issues).
-
-Предложить свою игру в приоритетную очередь (350 ₽) или заказать разбор вне очереди (750 ₽) можно на [странице Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game).
-
-Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=how_they_built_the_pyramids) · [профиль на GitHub](https://github.com/neoru-droid)
-
-Лицензия: [MIT](LICENSE)
-
-Автор: `neoru-droid`
+[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=how_they_built_the_pyramids) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
