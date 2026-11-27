@@ -3,9 +3,10 @@
 Лагерь 10 уровня со старта, запас монет, кирпичей и глины, быстрый бег, лёгкая переноска блоков и защита от жары + сохранение и `.CT` (`v1.0`, версия `0.43.0`, Windows и Steam Deck).
 
 ## Скачать
-- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/41ca289e-3e82-4c0f-af84-9cad91e1b84a?utm_source=github&utm_medium=readme&utm_campaign=how_they_built_the_pyramids)**
+- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/41ca289e-3e82-4c0f-af84-9cad91e1b84a)**
 - **[Архивы на GitHub Releases](https://github.com/neoru-droid/how-they-built-the-pyramids-mod-ru/releases)**
-- **Ранний доступ и заказ своей игры:** новинки на 48 ч раньше от `120 ₽`, своя игра в очередь - `350 ₽`, вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game)
+- **Новые релизы и заказ своей игры на [Boosty](https://boosty.to/cd_tixo):** подписка `120 ₽/мес` на все релизы или разовый пост `150 ₽`, своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽`.
+- **Обновления и новые релизы в Telegram:** [@neoru_droid](https://t.me/neoru_droid)
 
 ![How They Built the Pyramids - Мод-меню](docs/screenshots/cover_wide.png)
 
@@ -28,4 +29,4 @@
 
 Нашли баг после патча - пишите в [Issues](https://github.com/neoru-droid/how-they-built-the-pyramids-mod-ru/issues).
 
-[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=how_they_built_the_pyramids) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
+[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Telegram](https://t.me/neoru_droid) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
